@@ -52,7 +52,7 @@ func main() {
 					TextEdit{
 						AssignTo:      &value,
 						Text:          "test",
-						MaxLength:     128,
+						MaxLength:     256,
 						CompactHeight: true,
 						VScroll:       true,
 					},
